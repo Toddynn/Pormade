@@ -1,0 +1,35 @@
+body{
+    padding: 10px;
+}
+
+nav{
+    border-radius: 15px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.fundo{
+    
+    border-radius: 15px;
+    background-color: rgba(182, 176, 176, 0.774);
+    padding: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: medium   ;
+}
+
+span{
+    color: red;
+}
+
+h2{
+    text-align: center;
+}
