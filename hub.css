@@ -7,12 +7,15 @@ body{
     padding-bottom: 0%;
     padding-right: 0%;
 }
-.container-fluid{
-    padding-left: 5px;
-    padding-top: 5px;
-    padding-right: 0%;
-    padding-bottom: 0%;
-    background-color: #529e47;
+
+@media(max-width:699){
+    .fundo{
+        border-radius: 75%;
+        background-color: white;
+        margin-left: 100px;
+        margin-right: 100px;
+        padding: 50px;
+    }
 }
 
 .d-inline-block{
@@ -63,8 +66,6 @@ h2{
 .sub{
     color: black;
 }
-
-
 
 footer{
     padding-top: 10px;
