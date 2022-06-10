@@ -2,11 +2,24 @@ body{
     background-color: black;
 }
 
+.navbar{
+    background-color: #529e47;
+    padding-bottom: 0%;
+    padding-right: 0%;
+}
+.container-fluid{
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 0%;
+    background-color: #529e47;
+}
+
 .d-inline-block{
     border-radius: 10px;
 }
 
 .logo{
+    padding-top: 15px;
     text-align: center;
 }
 
@@ -28,10 +41,29 @@ h2{
     background-color: rgb(255, 255, 255);
     margin-left: 100px;
     margin-right: 100px;
-
     padding: 50px;
 }
 
-#ultimo{
-    align-items: center;
+.btn{
+    width: 100%;
+    height: 100%;
 }
+
+.sub{
+    color: black;
+}
+
+.p-3{
+    text-align: center; 
+}
+
+.ultimo{
+    text-align: center;
+}
+
+footer{
+    padding-top: 10px;
+    text-align: center;
+    color: rgb(10 21 81);
+}
+    
