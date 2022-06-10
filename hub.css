@@ -11,6 +11,7 @@ body{
     padding-left: 5px;
     padding-top: 5px;
     padding-right: 0%;
+    padding-bottom: 0%;
     background-color: #529e47;
 }
 
@@ -32,7 +33,7 @@ h1{
 h2{
     font-size: 14px;
     text-align: center;
-    color: white;
+    color: #626262;
 }
 
 .fundo{
@@ -47,6 +48,7 @@ h2{
 .btn{
     width: 100%;
     height: 100%;
+    color: black;
 }
 
 .sub{
