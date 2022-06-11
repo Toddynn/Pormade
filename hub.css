@@ -8,14 +8,8 @@ body{
     padding-right: 0%;
 }
 
-@media(max-width:699){
-    .fundo{
-        border-radius: 75%;
-        background-color: white;
-        margin-left: 100px;
-        margin-right: 100px;
-        padding: 50px;
-    }
+img{
+    max-width: 100%;
 }
 
 .d-inline-block{
