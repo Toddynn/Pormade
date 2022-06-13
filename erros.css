@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(39 160 59);
+}
+
+.navbar{
+    background-color: black;
+    padding-bottom: 0%;
+    padding-right: 0%;
+}
+
+img{
+    max-width: 100%;
+}
+
+.d-inline-block{
+    border-radius: 10px;
+}
+
+.logo{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.fundo{
+    border-radius: 15px;
+    background-color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+}
+
+.logo2{
+    text-align: center;
+}
+
+h1{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(158, 152, 152);
+}
+
+hr{
+    color: white;
+}
+
+.form-label{
+    color: white;
+}
+
+span{
+    color: red;
+}
+
+.d-inline-block:hover{
+    transform: scale(120%);
+}
+
+button:hover{
+    transform: scale(102%);
+}

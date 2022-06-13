@@ -38,14 +38,19 @@ hr{
 
 h1{
     font-size: 28px;
-    text-align: center;
+    text-align: flex-start;
     color: white;
 }
 
 h2{
     font-size: 20px;
-    text-align: center;
+    text-align: flex-start;
     color: #626262;
+}
+
+h3{
+    font-size: 16px;
+    text-align: flex-start;
 }
 
 .d-inline-block:hover{

@@ -48,3 +48,7 @@ h2{
 .d-inline-block:hover{
     transform: scale(120%);
 }
+
+button:hover{
+    transform: scale(102%);
+}

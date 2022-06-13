@@ -28,9 +28,9 @@ h1{
 }
 
 h2{
-    font-size: 14px;
+    font-size: 16px;
     text-align: center;
-    color: #626262;
+    color: #707070;
 }
 
 .fundo{
@@ -52,8 +52,9 @@ h2{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 10px;
-    width: 100%;
+    max-width: 100%;
     height: 100%;
+    width: 100%;
     color: black;
 }
 
