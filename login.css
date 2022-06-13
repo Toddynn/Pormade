@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/978644697461456907/985910411255746570/unknown.png);
+    max-width: 100%;
+    
+}
+
+.fundo{
+    border-radius: 15px;
+    background-color: rgb(39 160 59);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 250px;
+    padding: 50px;
+}
