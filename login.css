@@ -5,10 +5,18 @@ body{
 }
 
 .fundo{
+    color: black;
     border-radius: 15px;
-    background-color: rgb(39 160 59);
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 250px;
     padding: 50px;
+}
+
+h1{
+    
+}
+
+hr{
+    color: white;
 }
