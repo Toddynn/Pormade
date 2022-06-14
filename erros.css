@@ -24,8 +24,9 @@ img{
 .fundo{
     border-radius: 15px;
     background-color: black;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     padding: 50px;
 }
 
