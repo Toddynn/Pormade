@@ -45,6 +45,18 @@ h2{
     color: #626262;
 }
 
+hr{
+    color: white;
+}
+
+.form-label{
+    color: white;
+}
+
+span{
+    color: red;
+}
+
 .d-inline-block:hover{
     transform: scale(120%);
 }
