@@ -24,8 +24,9 @@ img{
 .fundo{
     border-radius: 15px;
     background-color: black;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     padding: 50px;
 }
 
@@ -51,4 +52,12 @@ h2{
 
 button:hover{
     transform: scale(102%);
+}
+
+.form-message-text{
+    font-size: 32px;
+    font-weight: 600;
+    margin: 12px 0px;
+    text-align: center;
+    color: white;
 }

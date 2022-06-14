@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(39 160 59);
+}
+
+.navbar{
+    background-color: black;
+    padding-bottom: 0%;
+    padding-right: 0%;
+}
+
+.d-inline-block{
+    border-radius: 10px;
+}
+
+img{
+    max-width: 100%;
+}
+
+.logo{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.fundo{
+    border-radius: 15px;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 50px;
+}
+
+hr{
+    color: white;
+}
+.logo2{
+    text-align: center;
+}
+
+h1{
+    font-size: 28px;
+    text-align: center;
+    color: white;
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+    color: #626262;
+}
+
+.d-inline-block:hover{
+    transform: scale(120%);
+}
+
+button:hover{
+    transform: scale(102%);
+}
+
+.form-label{
+    color: white;
+}
+
+span{
+    color: red;
+}
+
+.pdf_livro{
+    display: flex;
+    overflow: auto; 
+    width: 100%; 
+    height: 500px;
+    text-align: center;
+}
+
+.descricao_pdflivro{
+    color: white;
+}
