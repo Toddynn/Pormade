@@ -53,3 +53,11 @@ h2{
 button:hover{
     transform: scale(102%);
 }
+
+.form-message-text{
+    font-size: 32px;
+    font-weight: 600;
+    margin: 12px 0px;
+    text-align: center;
+    color: white;
+}
