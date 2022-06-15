@@ -76,3 +76,15 @@ footer{
 .d-inline-block:hover{
     transform: scale(105%);
 }
+
+@media screen and (max-width: 500px) {
+    strong{
+        font-size: small;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .col-6{
+        width: 600px;
+    } /*credits: arthurzinho soca fofo*/
+}
