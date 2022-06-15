@@ -131,39 +131,58 @@ body * {
     transform: scale(102%);
 }
 
+@media  screen and (max-width: 872px) {
+    .card-login{
+        width: 75%;
+    }
+}
 @media only screen and (max-width: 600px){
-
     .main-login{
         flex-direction: column;
     }
 
     .left-login > h1{
-
         display: none;
     }
 
     .left-login{
-
         width: 100%;
         height: auto;
     }
 
     right-login{
-
         width: 100%;
         height: auto;
-
     }
 
     .left-imag{
-
-        width: 50vw;
+        width: 45vw;
     }
 
     .card-login{
+        width: 75%;
+    }
+}
 
-        width: 90;
+@media only screen and (max-width: 599px){
+    .right-login {
+        width: 75%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
+    .card-login{
+        width: 100%;
+    }
     
+    .left-imag{
+        display: none;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .right-login{
+        width: 75%;
+    }
 }
