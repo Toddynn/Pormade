@@ -57,6 +57,16 @@ img{
     padding-right: 7px;
 }
 
+.bi-send{
+    position: static;
+    padding-right: 7px;
+}
+
+.bi-box-arrow-left{
+    position: static;
+    padding-right: 7px;
+}
+
 h1{
     font-size: 28px;
     text-align: center;
