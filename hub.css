@@ -8,6 +8,23 @@ body{
     padding-right: 0%;
 }
 
+.offcanvas{
+    background-color: black;
+    color: white;
+}
+
+.img-fluid{
+    border-radius: 50%;
+    width: 210px;
+    height: 200px;
+}
+
+.nomeUser{
+    position: static;
+    text-align: center;
+    padding-top: 20px;
+}
+
 img{
     max-width: 100%;
 }
@@ -19,6 +36,25 @@ img{
 .logo{
     padding-top: 15px;
     text-align: center;
+}
+
+#usuario{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.bi{
+    position: relative;
+    bottom: 21px;
+    right: 13px;
+}
+
+.bi-wallet2{
+    position: static;
+    padding-right: 7px;
 }
 
 h1{
@@ -51,6 +87,7 @@ h2{
 
 .btn{
     text-align: center;
+    align-items: center;
     padding-top: 20px;
     padding-bottom: 10px;
     max-width: 100%;
@@ -86,5 +123,5 @@ footer{
 @media screen and (max-width: 450px) {
     .col-6{
         width: 600px;
-    } /*credits: arthurzinho soca fofo*/
+    }
 }
