@@ -20,7 +20,6 @@ body * {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .left-login{
@@ -49,7 +48,6 @@ body * {
     background: #2f2841;
     border-radius: 20px;
     box-shadow: 0px 10px 40px #00000056;
-    
 }
 
 .card-login > h1{
@@ -124,7 +122,15 @@ body * {
 .left-imag{
     border-radius: 25px;
     width: 35vw;
-    box-shadow: 0px 10px 40px -12px #00ff40ab;
+    box-shadow: 0px 10px 40px -12px #00ff8052;
+    transition: 0.4s box-shadow ease-out, 0.5s transform ease-in, 1s border-radius ease-in;
+}
+.left-imag:hover{
+    border-radius: 100%;
+    transform: scale(1.2); 
+    /* box-shadow: 0px 10px 50px -12px #79ff67ab; */
+    box-shadow: 0px 10px 50px -12px #00ff8052; 
+    
 }
 
 .btn-login:hover{
@@ -186,3 +192,4 @@ body * {
         width: 75%;
     }
 }
+
